@@ -15,3 +15,11 @@ This is a simple Todo List application built with. Users can create, update, and
    ```bash
    git clone <repository-url>
    cd todo-app
+2. Install all dependencies:
+   npm install
+3. Start the server:
+   npm start
+## Extra Dependencies 
+1. react-icons
+2. uuid
+
