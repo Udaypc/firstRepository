@@ -12,10 +12,10 @@ This is a Todo List application built with React.js. Users can create, update, a
 
 ## Setup and Running
 1. npx create-react-app todo-app
-   cd todo-app
-2. Install all dependencies:
+2.   cd todo-app
+3. Install all dependencies:
    npm install
-3. Start the server:
+4. Start the server:
    npm start
 ## Extra Dependencies 
 1. react-icons
