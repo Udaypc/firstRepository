@@ -1,7 +1,7 @@
 # Todo List Application
 
 ## Overview
-This is a simple Todo List application built with. Users can create, update, and mark tasks as done. The application also includes search functionality and expandable task details.
+This is a Todo List application built with React.js. Users can create, update, and mark tasks as done. The application also includes search functionality and expandable task details.
 
 ## Features
 - Add new tasks
