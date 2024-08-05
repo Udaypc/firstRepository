@@ -11,9 +11,7 @@ This is a simple Todo List application built with. Users can create, update, and
 - Expandable task details with timestamp
 
 ## Setup and Running
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
+1. npx create-react-app todo-app
    cd todo-app
 2. Install all dependencies:
    npm install
